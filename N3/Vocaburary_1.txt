@@ -87,3 +87,31 @@
 香り		かおり		Incense, Smell
 満足		まんぞく	Satisfaction
 
+
+台風		たいふう	Typhoon
+遅れた	おくれた	Delay, Lag
+熱い		あつい	Het, Hot
+成功		せいこう	Success
+昔		むかし	Once upon  time
+漁業		ぎょぎょう	Fishing (Industry)
+代理		だいり		Representation, Agency
+手伝った	てつだった	To help, To assist
+名物		めいぶつ	Famous Product
+伝統		でんとう	Traditional
+皿		さら		Plate
+
+速い		はやい	Quick
+事項		じこ		Accident
+役書		やくしょ	
+届く		とどく		Deliver
+貸し借り	かしかり	Lending and Borrowing
+命令		めいれい	Order
+日記		にっき		Diary
+意味		いみ		Meaning
+中央		ちゅうおう	Center
+湖		みずうみ	Lake
+景色		けしき		Scenery
+幸せ		しあわせ	Happy
+
+
+
