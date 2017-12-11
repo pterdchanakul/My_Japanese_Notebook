@@ -16,3 +16,25 @@
 責任		せきにん	Duty, Responsibility
 過去		かこ		The past
 未来		みらい	The Future
+
+規則		きそく		Rule, Regulation
+必要		ひつよう	Necessary
+予報		よほう		Forecast, Prediction
+晴れ		はれ		Clear up
+天井		てんじょう	Celling
+汚れる	よごれる	Dirty
+不便		ふべん	Inconvenience
+迎え		むかえ	Meeting, Greeting
+
+小鳥		ことり		Small bird
+向こう		むこう		Opposite side, other side
+鳴き		なき		Cry, Bark
+文字		もじ		Letter, Character
+才能		さいのう	Talent, Ability
+実験		じっけん	Experiment
+薬品		やくひん	Medicine, Chemical
+保存		ほぞん	Preservation, Storage
+お宅		おたく		Your House
+運び		はこび	Progress, pace, step
+逃げる	にげる	Escape, Flee
+気の毒	きのどく	Pitiful, Unfortunate
