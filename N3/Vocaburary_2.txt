@@ -38,3 +38,10 @@
 運び		はこび	Progress, pace, step
 逃げる	にげる	Escape, Flee
 気の毒	きのどく	Pitiful, Unfortunate
+
+
+浅い		あさい		Shallow, Superficial, Light
+天然		てんねん	Nature, Nature Airhead
+都心		としん		City Center
+郊外		こうがい	Suburb, outskirts
+所属		しょぞく	Attached to, Belong to
