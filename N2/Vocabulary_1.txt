@@ -1,4 +1,4 @@
-相手		あいて	Opponent
+﻿相手		あいて	Opponent
 決める	きめる		Decide
 最も		もっとも	Most
 合う		あう		Fit
@@ -19,3 +19,13 @@
 理由		りゆう		Reason, Motive
 発表		はっぴょう	Announcement, Presenting
 怒る		おこる		Angry
+
+
+活動	かつどう	Action, Activity
+内容	ないよう	Subject、Content
+企業	きぎょう	Enterprise, Business
+別れる	わかれる	Separate
+回答	かいとう	Reply, Answer
+結果	けっか	Result, Outcome
+理解	りかい	Understanding
+書類	しょるい	Documents
