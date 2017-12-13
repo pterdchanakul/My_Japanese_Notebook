@@ -45,3 +45,19 @@
 都心		としん		City Center
 郊外		こうがい	Suburb, outskirts
 所属		しょぞく	Attached to, Belong to
+
+
+都会		とかい		City
+悔やむ	くやむ		To mourn, To regret
+町中		まちなか	Downtown
+迷う		まよう		To lose way, to hesitate
+そろそろ			Slowly, Soon
+ぐずぐず			Slowly, Loose
+急ぐ		いそぐ		To hurry, To rush
+一等地	いっとうち	Best district
+飲み物	のみもの	Drink, Beverage
+こぼれる	こぼれる	To spill, to become visible
+成功		せいこう	Success, Hit
+重大		じゅうだい	Serious, Important
+要因		よういん	Main cause, Primary factor
+
