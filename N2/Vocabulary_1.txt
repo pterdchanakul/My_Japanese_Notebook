@@ -1,24 +1,24 @@
-﻿相手		あいて	Opponent
-決める	きめる		Decide
-最も		もっとも	Most
-合う		あう		Fit
-睡眠		すいみん	Sleep
-方法		ほうほう	Method
-昼寝		ひるね	Nap
-訳		わけ		Reason, Case
-適当		てきとう	Suitable, Fit
-行動		こうどう	Conduct
+﻿相手	あいて	Opponent
+決める	きめる	Decide
+最も	もっとも	Most
+合う	あう	Fit
+睡眠	すいみん	Sleep
+方法	ほうほう	Method
+昼寝	ひるね	Nap
+訳	わけ	Reason, Case
+適当	てきとう	Suitable, Fit
+行動	こうどう	Conduct
 効果的	こうかてき	Effective, Successful
-調査		ちょうさ	Investigation
+調査	ちょうさ	Investigation
 
-筆者		ひっしゃ	Writer, Author
-なんて			Such as
-信じられない	しんじられない	Unbelievable
-商品		しょうひん	Commodity
-購買		こうばい	Procurement, Purchase
-理由		りゆう		Reason, Motive
-発表		はっぴょう	Announcement, Presenting
-怒る		おこる		Angry
+筆者	ひっしゃ	Writer, Author
+なんて		Such as
+信じられない しんじられない	Unbelievable
+商品	しょうひん	Commodity
+購買	こうばい	Procurement, Purchase
+理由	りゆう	Reason, Motive
+発表	はっぴょう	Announcement, Presenting
+怒る	おこる	Angry
 
 
 活動	かつどう	Action, Activity
@@ -29,3 +29,17 @@
 結果	けっか	Result, Outcome
 理解	りかい	Understanding
 書類	しょるい	Documents
+
+
+社員	しゃいん	Company Employee
+努力	どりょく	Great Effort
+成功	せいこう	Success
+面白い	おもしろい	Interesting
+感じた	かんじた	Feeling, Impression
+人間	にんげん	Human Being
+植物	しょくぶつ	Plant
+関係	かんけい	Relationship
+変化	へんか	Change, Variation
+職業	しょくぎょう	Occupation, Business
+割合	わりあい	Rate, Ratio
+失業率	しつぎょうりつ Unemployment rate
