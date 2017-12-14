@@ -1,63 +1,85 @@
-上着		うわぎ		Coat, Tunic
-印象		いんしょう	Impression
-知事		ちじ		Prefecture Governor
-失礼		しつれい	Impoliteness
-油断		ゆだん	Negligence, Carelessness
-試合		しあい	Match, Game
-習う		ならう		Learn
-復習		ふくしゅう	Review, Revision
+﻿上着	うわぎ	Coat, Tunic
+印象	いんしょう	Impression
+知事	ちじ	Prefecture Governor
+失礼	しつれい	Impoliteness
+油断	ゆだん	Negligence, Carelessness
+試合	しあい	Match, Game
+習う	ならう	Learn
+復習	ふくしゅう	Review, Revision
 
-秋		あき		Autumn
-枝		えだ		Branch
-実		みのる	Reality, Truth
-物語		ものがたり	Tale, Story, Legend
+秋	あき	Autumn
+枝	えだ	Branch
+実	みのる	Reality, Truth
+物語	ものがたり	Tale, Story, Legend
 求める	もとめる	Request, Want
-記録		きろく		Record, minutes
-責任		せきにん	Duty, Responsibility
-過去		かこ		The past
-未来		みらい	The Future
+記録	きろく	Record, minutes
+責任	せきにん	Duty, Responsibility
+過去	かこ	The past
+未来	みらい	The Future
 
-規則		きそく		Rule, Regulation
-必要		ひつよう	Necessary
-予報		よほう		Forecast, Prediction
-晴れ		はれ		Clear up
-天井		てんじょう	Celling
+規則	きそく	Rule, Regulation
+必要	ひつよう	Necessary
+予報	よほう	Forecast, Prediction
+晴れ	はれ	Clear up
+天井	てんじょう	Celling
 汚れる	よごれる	Dirty
-不便		ふべん	Inconvenience
-迎え		むかえ	Meeting, Greeting
+不便	ふべん	Inconvenience
+迎え	むかえ	Meeting, Greeting
 
-小鳥		ことり		Small bird
-向こう		むこう		Opposite side, other side
-鳴き		なき		Cry, Bark
-文字		もじ		Letter, Character
-才能		さいのう	Talent, Ability
-実験		じっけん	Experiment
-薬品		やくひん	Medicine, Chemical
-保存		ほぞん	Preservation, Storage
-お宅		おたく		Your House
-運び		はこび	Progress, pace, step
+小鳥	ことり	Small bird
+向こう	むこう	Opposite side, other side
+鳴き	なき	Cry, Bark
+文字	もじ	Letter, Character
+才能	さいのう	Talent, Ability
+実験	じっけん	Experiment
+薬品	やくひん	Medicine, Chemical
+保存	ほぞん	Preservation, Storage
+お宅	おたく	Your House
+運び	はこび	Progress, pace, step
 逃げる	にげる	Escape, Flee
 気の毒	きのどく	Pitiful, Unfortunate
 
 
-浅い		あさい		Shallow, Superficial, Light
-天然		てんねん	Nature, Nature Airhead
-都心		としん		City Center
-郊外		こうがい	Suburb, outskirts
-所属		しょぞく	Attached to, Belong to
+浅い	あさい	Shallow, Superficial, Light
+天然	てんねん	Nature, Nature Airhead
+都心	としん	City Center
+郊外	こうがい	Suburb, outskirts
+所属	しょぞく	Attached to, Belong to
 
 
-都会		とかい		City
-悔やむ	くやむ		To mourn, To regret
-町中		まちなか	Downtown
-迷う		まよう		To lose way, to hesitate
-そろそろ			Slowly, Soon
-ぐずぐず			Slowly, Loose
-急ぐ		いそぐ		To hurry, To rush
+都会	とかい	City
+悔やむ	くやむ	To mourn, To regret
+町中	まちなか	Downtown
+迷う	まよう	To lose way, to hesitate
+そろそろ		Slowly, Soon
+ぐずぐず		Slowly, Loose
+急ぐ	いそぐ	To hurry, To rush
 一等地	いっとうち	Best district
 飲み物	のみもの	Drink, Beverage
 こぼれる	こぼれる	To spill, to become visible
-成功		せいこう	Success, Hit
-重大		じゅうだい	Serious, Important
-要因		よういん	Main cause, Primary factor
+成功	せいこう	Success, Hit
+重大	じゅうだい	Serious, Important
+要因	よういん	Main cause, Primary factor
 
+
+にらんで		To glare at
+悪口	わるぐち	Abuse, Insult
+意地悪	いじわる	Malicious, Unkind
+とにかく		Anyhow, in any case
+文句	もんく	Complaint. Words
+真面目	まじめ	Serious, Diligent
+すっかり	すっかり	All, Completely
+地味	じみ	Plain, Simple
+最近	さいきん	Most recent. These days
+すごく	すごく	Awfully, very
+変	へん	Unusual, strange
+
+
+入店	にゅうてん	Going inside shop
+未満	みまん	Less than, Insufficient
+禁止	きんし	Prohibition, Ban
+以上	いじょう	Not Less than
+以下	いか	Not exceeding
+以降	いこう	On and after, as from
+外出	がいしゅつ	Outing, trip
+控える	ひかえる	To refrain, to hold back

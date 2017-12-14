@@ -1,117 +1,117 @@
-否定		ひてい	Denial
-小型		こがた		Small size
-孫		まご		Grandchild
+﻿否定	ひてい	Denial
+小型	こがた	Small size
+孫	まご	Grandchild
 子育て	こそだて	Child Rising
-早朝		そうちょう	Early Morning
-湿度		しつど		Humidity Level
+早朝	そうちょう	Early Morning
+湿度	しつど	Humidity Level
 
-当然		とうぜん	Natural
-期限		きげん	Time Limit, Deadline
-翌日		よくじつ	Next Day
-庭		にわ		Garden
-希望		きぼう		Hope, Wish
+当然	とうぜん	Natural
+期限	きげん	Time Limit, Deadline
+翌日	よくじつ	Next Day
+庭	にわ	Garden
+希望	きぼう	Hope, Wish
 比べて	くらべて	Compare
-必ず		かならず	Always, Without Exception
-表す		あらわす	Appear
+必ず	かならず	Always, Without Exception
+表す	あらわす	Appear
 
-星		ほし		Star, Dot
+星	ほし	Star, Dot
 流れる	ながれる	To Disappear
-郵便		ゆうびん	Mail Service
+郵便	ゆうびん	Mail Service
 珍しい	めずらしい	Rare
-出版		しゅっぱん	Publication
-息子		むすこ	Son
-禁止		きんし		Prohibition
-研究		けんきゅう	Research
+出版	しゅっぱん	Publication
+息子	むすこ	Son
+禁止	きんし	Prohibition
+研究	けんきゅう	Research
 明後日	あさって	Day After Tomorrow
 
-経済		けいざい	Economic
+経済	けいざい	Economic
 栄える	さかえる	To Flourish
-指示		しじ		Indication, Instruction
-破る		やぶる	To tear, Break, defeat
-血圧		けつあつ	Blood Pressure
-周囲		しゅうい	Surrounding
-床		ゆか		Floor, Bed
-真っ赤	まっか		Bright Red
+指示	しじ	Indication, Instruction
+破る	やぶる	To tear, Break, defeat
+血圧	けつあつ	Blood Pressure
+周囲	しゅうい	Surrounding
+床	ゆか	Floor, Bed
+真っ赤	まっか	Bright Red
 
 
-鋭い		するどい	Sharp
-外科		げか		Surgery
-苦労		くろう		Trouble, Hardship
-営む		いとなむ	To run a business
-支出		ししゅつ	Expenditure
+鋭い	するどい	Sharp
+外科	げか	Surgery
+苦労	くろう	Trouble, Hardship
+営む	いとなむ	To run a business
+支出	ししゅつ	Expenditure
 忘れ物	わすれもの	Lost Article
-立派		りっぱ		Splendid, Fine
-引退		いんたい	Retire
-夫		おっと		Husband
-涙		なみだ	Tear
+立派	りっぱ	Splendid, Fine
+引退	いんたい	Retire
+夫	おっと	Husband
+涙	なみだ	Tear
 
-患者		かんじゃ	Patient
-検査		けんさ		Inspection
-結果		けっか		Result
+患者	かんじゃ	Patient
+検査	けんさ	Inspection
+結果	けっか	Result
 伝える	つたえる	To Convey, To Report
 連れて	つれて	As, In proportion to
-泊まる	とまる		To stay at
-芸術家	げいじゅつか	Artist
-氏名		しめい	Full Name
-髪		かみ		Hair
-沈む		しずむ	To Sink, To go under
-相手		あいて	Companion, Opponent
-決定		けってい	Decision
-書類		しょるい	Documents
-主に		おもに	Mainly
-個人		こじん		Individual, Private
-情報		じょうほう	Information
-含む		ふくむ		Include
+泊まる	とまる	To stay at
+芸術家	げいじゅつか Artist
+氏名	しめい	Full Name
+髪	かみ	Hair
+沈む	しずむ	To Sink, To go under
+相手	あいて	Companion, Opponent
+決定	けってい	Decision
+書類	しょるい	Documents
+主に	おもに	Mainly
+個人	こじん	Individual, Private
+情報	じょうほう	Information
+含む	ふくむ	Include
 
 涼しい	すずしい	Cool
-予防		よぼう		Prevention
-国籍		こくせき	Nationality
-関係		かんけい	Relationship
-特急		とっきゅう	Limited Express
-登る		のぼる	Climb
-机		つくえ		Table
-領収書	りょうしゅうしょ	Receipt
-指		ゆび		Finger
-困る		こまる		To be troubled
-曲がる	まがる		To Bend
-神社		じんじゃ	Shrine
+予防	よぼう	Prevention
+国籍	こくせき	Nationality
+関係	かんけい	Relationship
+特急	とっきゅう	Limited Express
+登る	のぼる	Climb
+机	つくえ	Table
+領収書	りょうしゅうしょ Receipt
+指	ゆび	Finger
+困る	こまる	To be troubled
+曲がる	まがる	To Bend
+神社	じんじゃ	Shrine
 
-空港		くうこう	Airport
+空港	くうこう	Airport
 支払う	しはらう	Payment
-育児		いくじ		Childcare, Nursing
+育児	いくじ	Childcare, Nursing
 細かい	こまかい	Small
-独立		どくりつ	Independence
-注目		ちゅうもく	Notice, Attention
-解答		かいとう	Answer, Solution
-配る		くばる		To Distribute, Deliver
-香り		かおり		Incense, Smell
-満足		まんぞく	Satisfaction
+独立	どくりつ	Independence
+注目	ちゅうもく	Notice, Attention
+解答	かいとう	Answer, Solution
+配る	くばる	To Distribute, Deliver
+香り	かおり	Incense, Smell
+満足	まんぞく	Satisfaction
 
 
-台風		たいふう	Typhoon
+台風	たいふう	Typhoon
 遅れた	おくれた	Delay, Lag
-熱い		あつい	Het, Hot
-成功		せいこう	Success
-昔		むかし	Once upon  time
-漁業		ぎょぎょう	Fishing (Industry)
-代理		だいり		Representation, Agency
+熱い	あつい	Het, Hot
+成功	せいこう	Success
+昔	むかし	Once upon  time
+漁業	ぎょぎょう	Fishing (Industry)
+代理	だいり	Representation, Agency
 手伝った	てつだった	To help, To assist
-名物		めいぶつ	Famous Product
-伝統		でんとう	Traditional
-皿		さら		Plate
+名物	めいぶつ	Famous Product
+伝統	でんとう	Traditional
+皿	さら	Plate
 
-速い		はやい	Quick
-事項		じこ		Accident
-役書		やくしょ	
-届く		とどく		Deliver
+速い	はやい	Quick
+事項	じこ	Accident
+役書	やくしょ	
+届く	とどく	Deliver
 貸し借り	かしかり	Lending and Borrowing
-命令		めいれい	Order
-日記		にっき		Diary
-意味		いみ		Meaning
-中央		ちゅうおう	Center
-湖		みずうみ	Lake
-景色		けしき		Scenery
-幸せ		しあわせ	Happy
+命令	めいれい	Order
+日記	にっき	Diary
+意味	いみ	Meaning
+中央	ちゅうおう	Center
+湖	みずうみ	Lake
+景色	けしき	Scenery
+幸せ	しあわせ	Happy
 ---
 
 
