@@ -43,3 +43,26 @@
 職業	しょくぎょう	Occupation, Business
 割合	わりあい	Rate, Ratio
 失業率	しつぎょうりつ Unemployment rate
+
+
+につれて		As X, Then Y
+表現	ひょうげん	Expression, Representation
+間違い	まちがい	Mistake, Error
+数	かず	Number
+他人	たにん	Another Person
+相談	そうだん	Consultation
+評価	ひょうか	Valuation, Estimation
+基準	きじゅん	Standard, Basis
+
+
+中学	ちゅうがく	Middle School
+初め	はじめ	First time
+頃	ころ	Time, About
+友人	ゆうじん	Friend
+覚える	おぼえる	Memorize
+太陽	たいよう	Sun
+登る	のぼる	To Climb
+確認	かくにん	Confirmation
+会話	かいわ	Conversation
+技術	ぎじゅつ	Technology
+
