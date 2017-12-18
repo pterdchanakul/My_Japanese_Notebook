@@ -66,3 +66,17 @@
 会話	かいわ	Conversation
 技術	ぎじゅつ	Technology
 
+漢字	フリガナ	意味
+経済	けいざい	Economics, Business
+与える	あたえる	To give
+巨額	きょがく	Great Sum
+税金	ぜいきん	Tax, Duty
+悩む	なやむ	To be worried
+妻	つま	Wife, Spouse
+約	やく	Approximately
+釣り	つり	Fishing
+実際	じっさい	Practically, Practical
+教育	きょういく	Training, Education
+社会	しゃかい	Society, Public
+効果	こうか	Effect, Effectiveness
+
