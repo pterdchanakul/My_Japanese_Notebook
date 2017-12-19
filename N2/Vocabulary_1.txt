@@ -66,7 +66,7 @@
 会話	かいわ	Conversation
 技術	ぎじゅつ	Technology
 
-漢字	フリガナ	意味
+
 経済	けいざい	Economics, Business
 与える	あたえる	To give
 巨額	きょがく	Great Sum
@@ -80,3 +80,15 @@
 社会	しゃかい	Society, Public
 効果	こうか	Effect, Effectiveness
 
+
+国民	こくみん	Nationality, people
+関心	かんしん	Concern, Interest
+調べる	しらべる	To examine, investigate
+代　	だい	Counter for decade of age
+将来	しょうらい	Future
+人生	じんせい	Human life
+目的	もくてき	Purpose, Goal
+健康	けんこう	Health
+学ぶ	まなぶ	Study, learning
+まね		Imitating
+大事	だいじ	Important, Valuable
