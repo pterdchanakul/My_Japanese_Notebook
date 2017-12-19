@@ -123,3 +123,5 @@
 卒業	そつぎょう	Graduation
 論文	ろんぶん	Thesis, Essay
 単位	たんい	Unit, School Credit
+真っ黒	まっくろ	Pitch Black
+真っ青	まっさお	Deep Blue
