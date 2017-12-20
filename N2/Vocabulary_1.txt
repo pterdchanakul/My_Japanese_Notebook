@@ -92,3 +92,5 @@
 学ぶ	まなぶ	Study, learning
 まね		Imitating
 大事	だいじ	Important, Valuable
+
+
