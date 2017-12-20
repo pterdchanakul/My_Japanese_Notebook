@@ -94,3 +94,13 @@
 大事	だいじ	Important, Valuable
 
 
+能力	のうりょく	Ability, Faculty
+日常	にちじょう	Ordinary, Regular
+初めて	はじめて	First time
+合わせる	あわせる	Fit, suit
+就職	しゅうしょく	Finding employment
+一生懸命	いっしょうけんめい	With all one's might
+礼儀	れいぎ	Manner, Courtesy
+身に着ける	みにつける	To learn
+成長	せいちょう	Growth, Grow to adult
+
