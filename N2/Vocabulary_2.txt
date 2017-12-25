@@ -8,3 +8,13 @@
 郵便	ゆうびん	Mail service
 環境	かんきょう	Environment
 優勝	ゆうしょう	Victory, Championship
+
+
+満足	まんぞく	Satisfaction, Sufficient
+得る	える	Gain. Get
+その後	そのあと	After that. Afterwards
+気を付ける	きをつける	To be careful. To take care
+守る	まもる	Guard, Protect
+落ちる	おちる	Fail, Drop
+しやすい		Easy to make. Easy to Do
+
