@@ -26,3 +26,28 @@
 さらに		Furthermore, again
 怒り	いかり	Anger, Rage, Fury
 深い	ふかい	Deep, Profound, Thick
+
+
+あまり		Too much
+全体	ぜんたい	Whole, Entirely
+利益	りえき	Profit. Gains. Benefit
+下がる	さがる	To come down. Go down
+つつ		While, Even though
+過ぎる	すぎる	To pass through, to beyond
+直接	ちょくせつ	Direct, Immediate
+示す	しめす	To show, to demonstrate
+
+
+地域	ちいき	Area, Region
+人々	ひとびと	Each Person, Person
+豊か	ゆたか	Wealthy, Very
+住民	じゅうみん	Citizens, inhabitants
+疑問	ぎもん	Question, Problem
+政府	せいふ	Government
+幼稚園	ようちえん	Kindergarten
+物事	ものごと	Things, Everything
+経験	けいけん	Experience
+主役	しゅやく	Leading (Part, Actor)
+位	い	Rank, Grade
+
+
