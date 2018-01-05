@@ -51,3 +51,25 @@
 位	い	Rank, Grade
 
 
+生産	せいさん	Production, Live Birth
+増加	ぞうか	Increase, Increment
+大学院	だいがくいん	Graduate School
+留学	りゅうがく	Studying Abroad
+離れる	はなれる	To be separated. To leave
+不安	ふあん	Anxiety, Insecurity
+結婚式	けっこんしき	Marriage Ceremony
+参加	さんか	Participation
+
+
+分	ぶん	Part
+供給	きょうきゅう	Supply, Provision
+文化	ぶんか	Culture, Civilization
+表す	あらわす	To Express, To reveal
+体験	たいけん	Personal Experience
+交際	こうさい	Company, Friendship
+続く	つづく	To continue
+疲れ	つかれ	Tiredness, Fatigue
+あるいは		Or, Possibly
+筋トレ	きんとれ	Weight Training
+きたえる		Forge, Discipline, Train
+
