@@ -73,3 +73,17 @@
 筋トレ	きんとれ	Weight Training
 きたえる		Forge, Discipline, Train
 
+
+電池	でんち	Battery
+充電	じゅうでん	Charging, Electrification
+今朝	けさ	This morning
+途中	とちゅう	On the way, en route
+恋人	こいびと	Lover, Sweetheart
+限る	かぎる	To restrict, to limit
+給料	きゅうりょう	Salary, Wages
+暮らす	くらす	To live, to get along
+進歩	しんぽ	Progress, Advance
+情報	じょうほう	Information
+まとめる		To collect, to summarize
+可能	かのう	Potential, possible
+
